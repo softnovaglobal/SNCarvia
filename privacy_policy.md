@@ -84,7 +84,7 @@ In the EEA, the UK and some other regions, Carvia shows Google's consent message
 | Brand catalog and logo hosts, Google favicon service (google.com/s2/favicons) | Brand logos, favorite icons | IP address, domain of the favorite site |
 | Websites you open in the browser | Web browsing | Their own practices apply |
 
-Overpass, OpenStreetMap and Geoapify servers are operated by third parties, not by us. Geoapify processes route requests under its own terms and privacy policy. [Geoapify server location and transfer mechanism - TO BE CONFIRMED BY SOFT NOVA.] We do not sell your personal data. We may disclose data when the law requires it.
+Overpass, OpenStreetMap and Geoapify servers are operated by third parties, not by us. Geoapify processes route requests under its own terms and privacy policy. Geoapify is a company based in Germany; its default servers and main data centers are located in the European Union. We do not sell your personal data. We may disclose data when the law requires it.
 
 International transfers: Google and other recipients may process data outside your country, including in the United States. Transfers rely on safeguards such as the EU-US Data Privacy Framework or Standard Contractual Clauses, as applicable to the provider. For Turkey see section 14.
 
