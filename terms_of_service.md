@@ -6,7 +6,7 @@ Provider: Soft Nova, Türkiye, Istanbul, softnova.global@gmail.com
 By creating an account or using Carvia you agree to these terms. If you do not agree, do not use the app. See also our [Privacy Policy](privacy_policy.md).
 
 ## 1. The service
-Carvia is a vehicle companion app for phone and Android Auto: vehicle garage, fuel and maintenance records, nearby station search, an in-app web browser, screen sharing to the car display, and widgets. Carvia does not read data from your vehicle. Features may change over time.
+Carvia is a vehicle companion app for phone and Android Auto: vehicle garage, fuel and maintenance records, nearby station search with optional in-app route guidance to a station, an in-app web browser, screen sharing to the car display, and widgets. Carvia does not read data from your vehicle. Features may change over time.
 
 ## 2. Eligibility and accounts
 - You must be at least 13 years old. Where the law of your country requires a higher age or parental consent (for example, persons under 18 in Turkey), you may use Carvia only with your parent's or guardian's permission.
@@ -14,7 +14,7 @@ Carvia is a vehicle companion app for phone and Android Auto: vehicle garage, fu
 - You can delete your account at any time in Settings > Account > Delete account. See [https://sncarvia.web.app/account-deletion](https://sncarvia.web.app/account-deletion).
 
 ## 3. Driving safety
-Do not use Carvia in a way that distracts you from driving. Obey traffic laws. Some features can be limited while the vehicle is moving. The car web browser and screen sharing have a setting: with "Only when stopped", Carvia dims the content and ignores touch input while the phone's GPS speed shows that the vehicle is moving; with "Always available", Carvia applies no such limit and you alone are responsible for using these features safely. The limit depends on location permission and a working GPS signal: if the speed is unknown, Carvia cannot detect movement and does not restrict the content, so it is not a guarantee that a feature is unavailable while driving. Carvia reads the speed of your phone only, not of your vehicle. Use the browser and screen sharing only when it is safe and legal to do so, preferably while parked. Station, map and other information may be incomplete or out of date (it comes from third-party open data). You use it at your own risk and must verify what matters. Entries you make (fuel, maintenance, inspection dates) are your own records and not professional advice.
+Do not use Carvia in a way that distracts you from driving. Obey traffic laws. Some features can be limited while the vehicle is moving. The car web browser and screen sharing have a setting: with "Only when stopped", Carvia dims the content and ignores touch input while the phone's GPS speed shows that the vehicle is moving; with "Always available", Carvia applies no such limit and you alone are responsible for using these features safely. The limit depends on location permission and a working GPS signal: if the speed is unknown, Carvia cannot detect movement and does not restrict the content, so it is not a guarantee that a feature is unavailable while driving. Carvia reads the speed of your phone only, not of your vehicle. Use the browser and screen sharing only when it is safe and legal to do so, preferably while parked. Station, map and other information may be incomplete or out of date (it comes from third-party open data). You use it at your own risk and must verify what matters. In-app route guidance to a station (where available) is advisory only: routes and instructions may be wrong, out of date or unavailable, do not include live traffic, and may not reflect road closures or restrictions. Always follow traffic signs, road conditions and the law, and do not interact with the screen while driving. When in-app guidance is not available, Carvia offers to open another navigation app instead. Entries you make (fuel, maintenance, inspection dates) are your own records and not professional advice.
 
 ## 4. Access time and ads
 - Web browser and screen sharing use an "Access time" balance. A signed-in account gets a welcome amount once; watching a rewarded ad adds more. Time is used only while the feature is in use.
@@ -26,7 +26,7 @@ Do not use Carvia in a way that distracts you from driving. Obey traffic laws. S
 Do not break the law; infringe others' rights; attack, reverse engineer (except where law allows), overload or misuse the app or our Firebase backend; or use the browser to access illegal content. Third-party websites you open are not ours and their terms and privacy practices apply.
 
 ## 6. Third-party services and content
-Carvia uses Google services (Firebase, AdMob, Google Play, Android Auto), OpenStreetMap data and Overpass servers. Map data is (c) OpenStreetMap contributors under the ODbL. Third-party brand and logo names belong to their owners and are used only to identify vehicle makes. Third-party services may be unavailable or change without notice.
+Carvia uses Google services (Firebase, AdMob, Google Play, Android Auto), OpenStreetMap data, Overpass servers and, for in-app routes, the Geoapify routing service ("Powered by Geoapify", shown with every route). Map data is (c) OpenStreetMap contributors under the ODbL. Third-party brand and logo names belong to their owners and are used only to identify vehicle makes. Third-party services may be unavailable or change without notice.
 
 ## 7. Intellectual property
 The app, its design and code belong to Soft Nova or its licensors. You get a personal, non-exclusive, non-transferable, revocable right to use the app. You keep ownership of the data you enter; you allow us to store and process it to provide the service.
@@ -55,5 +55,3 @@ Turkish law applies, without removing mandatory consumer protections of your cou
 ## 15. Contact
 Soft Nova, Istanbul, Türkiye, softnova.global@gmail.com
 
----
-Template notice for Soft Nova (remove before publishing): this document is not legal advice. Have it reviewed by a Turkish lawyer, especially sections 8, 9, 10, 13 and 14. A Turkish version (`terms_of_service.tr.md`) is recommended because Turkey is a target country.
