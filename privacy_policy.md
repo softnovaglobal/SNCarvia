@@ -1,6 +1,6 @@
 # Carvia Privacy Policy
 
-Last updated: 9 November 2026
+Last updated: 10 November 2026
 App: Carvia (Android package `com.sn.carvia`), version 0.7 and later
 Developer / data controller: Soft Nova, Türkiye, Istanbul
 Contact (privacy and deletion requests): softnova.global@gmail.com
@@ -9,7 +9,7 @@ Contact (privacy and deletion requests): softnova.global@gmail.com
 
 This policy explains what data the Carvia app processes on your phone and on the Android Auto screen, why, who receives it, and what rights you have. Carvia does not read speed, fuel level, mileage or any other data from your vehicle. You enter vehicle information yourself.
 
-The main policy is written in English. The KVKK notice for users in Turkey (section 14) is also available in Turkish, Arabic, French, German and Italian (files `kvkk-aydinlatma.<language>.md` in the same repository).
+The main policy is written in English. The KVKK notice for users in Turkey (section 14) is also available in Turkish (`kvkk-aydinlatma.tr.md`) and English (`kvkk-aydinlatma.en.md`) in the same repository.
 
 ## 2. Data we process
 
@@ -55,9 +55,9 @@ In release builds Firebase Crashlytics collects crash and error reports: stack t
 | Provide the app (garage, fuel, maintenance, map, web) | 2.1, 2.3, 2.4, 2.6 | Contract, Art. 6(1)(b); KVKK Art. 5/2-c |
 | Account, sign-in, cloud sync | 2.1, 2.2 | Contract, Art. 6(1)(b) |
 | Maintenance reminder notifications | 2.1 | Contract; notification permission |
-| Nearby station search | 2.3 | Consent via the Android location permission, Art. 6(1)(a) |
+| Nearby station search | 2.3 | Contract for the feature you request, Art. 6(1)(b), with the Android location permission as technical control (where the law of your country treats the permission as consent, Art. 6(1)(a)); KVKK Art. 5/2-c |
 | Access time ledger and welcome marker (fair use, fraud prevention) | 2.2, 2.5 | Legitimate interests, Art. 6(1)(f); KVKK Art. 5/2-f |
-| Ads (including personalization) | Ad and device data | Consent (Google consent message), Art. 6(1)(a) |
+| Ads (including personalization) | Ad and device data | Consent where Google's consent message is shown, Art. 6(1)(a); elsewhere legitimate interests, Art. 6(1)(f); KVKK Art. 5/2-f. See section 4 and 14 |
 | Crash detection, security, app integrity | 2.7 | Legitimate interests, Art. 6(1)(f) |
 
 ## 4. Consent for ads and your privacy choices
@@ -83,7 +83,7 @@ In the EEA, the UK and some other regions, Carvia shows Google's consent message
 
 Overpass and OpenStreetMap servers are operated by third parties, not by us. We do not sell your personal data. We may disclose data when the law requires it.
 
-International transfers: Google and other recipients may process data outside your country, including in the United States. Transfers rely on safeguards such as the EU-US Data Privacy Framework or Standard Contractual Clauses, as applicable to the provider.
+International transfers: Google and other recipients may process data outside your country, including in the United States. Transfers rely on safeguards such as the EU-US Data Privacy Framework or Standard Contractual Clauses, as applicable to the provider. For Turkey see section 14.
 
 ## 7. Advertising, children and age
 
@@ -94,8 +94,8 @@ Carvia is intended for users aged 13 and over. It is not designed for children u
 - Device data: until you delete it, clear app data or uninstall.
 - Cloud account data: until you delete your account. When you delete your account in the app, we delete your Firestore documents and your Firebase account right away and we do not keep a copy or a backup period of our own. Firebase and Google may need a short technical time to remove copies from their own systems.
 - Access time ledger: deleted together with your account on a best-effort basis; a leftover ledger grants nothing.
-- Welcome marker: kept after account deletion to prevent repeated welcome grants (section 2.5), based on our legitimate interest in preventing abuse.
-- Guest (anonymous) records and other leftover records: [RETENTION PERIOD AND SCOPE - TO BE CONFIRMED BY SOFT NOVA. Planned: deleted after 1 year. Do not publish this line until automatic deletion is implemented.]
+- Welcome marker: kept after account deletion without a time limit, to prevent repeated welcome grants (section 2.5); it contains your lower-cased email address and your account ID. Basis: our legitimate interest in preventing abuse.
+- Guest (anonymous) records and other leftover records: an anonymous guest account and its Access time record, and Access time records that no longer have an account, are kept without a time limit. We keep them as part of our abuse, fraud and security controls: they help us detect and block tampering with Access time (for example modified or hacked app copies) and prevent repeated welcome credits. They contain no name or email address. You can ask us to remove them earlier (section 9). Basis: our legitimate interest in preventing abuse and keeping the service secure.
 - Crashlytics reports: kept by Firebase for about 90 days under its standard retention.
 - Receipt photos: not stored by the app.
 
@@ -103,8 +103,8 @@ Carvia is intended for users aged 13 and over. It is not designed for children u
 
 - In the app: Settings > Account > Delete account. You confirm your identity again (Google or password). Your Firestore documents and your Firebase account are deleted. You can choose whether the data on this phone is also deleted.
 - Local data only: clear app data in Android settings or uninstall the app.
-- Guests: guest data is on your device. To delete the anonymous Access time record, write to softnova.global@gmail.com from the address you can prove you control, and include your device details if you can; we will review and delete what we can identify.
-- Exception: the welcome marker described in section 2.5 may remain because it is needed to prevent abuse. It contains your email address and account ID. To ask us to review or remove it, write to softnova.global@gmail.com.
+- Guests: guest data is on your device. The anonymous Access time record is kept without a time limit for abuse, fraud and security controls (section 8). For earlier removal write to softnova.global@gmail.com; because the record has no name or email, we can delete it only if we can identify it from the details you send.
+- Exception: the welcome marker described in section 2.5 may remain because it is needed to prevent abuse. It contains your email address and account ID. To ask us to review or remove it, write to softnova.global@gmail.com from your account email address.
 - Public web page for deletion requests: https://sncarvia.web.app/account-deletion
 
 ## 10. Your rights
@@ -132,13 +132,13 @@ softnova.global@gmail.com
 
 ## 14. Notice for users in Turkey (KVKK Information Notice, Law No. 6698, Art. 10)
 
-This notice is also provided in Turkish (`kvkk-aydinlatma.tr.md`), Arabic, French, German and Italian in the same repository.
+This notice is also provided in Turkish (`kvkk-aydinlatma.tr.md`) and English (`kvkk-aydinlatma.en.md`) in the same repository.
 
 - Data controller: Soft Nova, Türkiye, Istanbul, softnova.global@gmail.com. [VERBIS registration status - TO BE CONFIRMED BY SOFT NOVA.]
 - Personal data processed: identity and contact data (email, display name), user transaction data (vehicle, fuel, maintenance records, Access time), location data, device and technical data, advertising and consent data (see section 2).
 - Purposes: providing the app, account and sync, location-based station search, fair use and security, advertising, crash analysis, legal obligations.
-- Legal grounds (Art. 5 and Art. 6): performance of a contract, legitimate interests that do not harm your fundamental rights, legal obligation, and your explicit consent for location and personalized advertising. Consent is voluntary and can be withdrawn at any time through Android permissions or the in-app ad privacy settings.
-- Recipients and transfer abroad: Google (Firebase, AdMob, Google Play services) and the servers in section 6. Data may be transferred abroad (Art. 9 of Law No. 6698) based on your explicit consent given in the app, or on the safeguards the law allows. [Mechanism to be confirmed by Soft Nova's legal advisor.]
+- Legal grounds (Art. 5 of Law No. 6698): performance of a contract (providing the app, your account and cloud sync, Access time, and the location-based station search you ask for, Art. 5/2-c); legitimate interests that do not harm your fundamental rights (fair use and fraud prevention, security and crash analysis, and serving and measuring ads where Google's consent message is not shown, Art. 5/2-f); legal obligation (Art. 5/2-ç). We do not process special categories of personal data (Art. 6). Location is read only after you grant the Android location permission, which you can withdraw at any time in Android settings. Where Google's consent message is shown for ads, ads follow your choice there and you can change it in the app's ad privacy settings. You can also reset or delete your advertising ID in Android Settings > Google > Ads. This is an information notice under Art. 10; it does not ask for your consent. [Legal review pending: confirm grounds per purpose, in particular personalized ads in Turkey.]
+- Recipients and transfer abroad: Google (Firebase, AdMob, Google Play services) and the servers in section 6. Data is transferred abroad under Art. 9 of Law No. 6698 as amended by Law No. 7499: on an adequacy decision of the Personal Data Protection Board, or with appropriate safeguards such as the Board's standard contract, which is notified to the Authority within the legal period, or, only for occasional transfers, on the exceptions listed in Art. 9. We do not rely on a general explicit consent for these transfers. [Legal review pending: mechanism per recipient and notification status.]
 - Collection method: automatically through the app and the SDKs, and from you directly.
 - Your rights under Art. 11: learn whether your data is processed, request information, learn the purpose and whether it is used appropriately, learn the recipients in Turkey or abroad, ask for correction, ask for deletion or destruction, ask that these actions be notified to recipients, object to results against you made only by automated analysis, and claim compensation for damage from unlawful processing.
 - How to apply: write to softnova.global@gmail.com. We answer within 30 days at the latest. You may also complain to the Personal Data Protection Board (KVKK).
