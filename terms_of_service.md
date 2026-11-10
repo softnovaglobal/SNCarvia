@@ -2,7 +2,6 @@
 
 Last updated: 9 November 2026
 Provider: Soft Nova, Türkiye, Istanbul, softnova.global@gmail.com
-[Trade registry / tax / MERSIS details - TO BE ADDED BY SOFT NOVA, if applicable]
 
 By creating an account or using Carvia you agree to these terms. If you do not agree, do not use the app. See also our [Privacy Policy](privacy_policy.md).
 
@@ -15,7 +14,7 @@ Carvia is a vehicle companion app for phone and Android Auto: vehicle garage, fu
 - You can delete your account at any time in Settings > Account > Delete account. See [https://sncarvia.web.app/account-deletion](https://sncarvia.web.app/account-deletion).
 
 ## 3. Driving safety
-Do not use Carvia in a way that distracts you from driving. Obey traffic laws. Some features can be limited while the vehicle is moving. Station, map and other information may be incomplete or out of date (it comes from third-party open data). You use it at your own risk and must verify what matters. Entries you make (fuel, maintenance, inspection dates) are your own records and not professional advice.
+Do not use Carvia in a way that distracts you from driving. Obey traffic laws. Some features can be limited while the vehicle is moving. The car web browser and screen sharing have a setting: with "Only when stopped", Carvia dims the content and ignores touch input while the phone's GPS speed shows that the vehicle is moving; with "Always available", Carvia applies no such limit and you alone are responsible for using these features safely. The limit depends on location permission and a working GPS signal: if the speed is unknown, Carvia cannot detect movement and does not restrict the content, so it is not a guarantee that a feature is unavailable while driving. Carvia reads the speed of your phone only, not of your vehicle. Use the browser and screen sharing only when it is safe and legal to do so, preferably while parked. Station, map and other information may be incomplete or out of date (it comes from third-party open data). You use it at your own risk and must verify what matters. Entries you make (fuel, maintenance, inspection dates) are your own records and not professional advice.
 
 ## 4. Access time and ads
 - Web browser and screen sharing use an "Access time" balance. A signed-in account gets a welcome amount once; watching a rewarded ad adds more. Time is used only while the feature is in use.
