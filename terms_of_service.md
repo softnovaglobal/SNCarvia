@@ -1,7 +1,7 @@
 # Carvia Terms of Service and Membership Agreement
 
 Last updated: 9 November 2026
-Provider: Soft Nova, [ADDRESS - TO BE ADDED BY SOFT NOVA], softnova.global@gmail.com
+Provider: Soft Nova, Türkiye, Istanbul, softnova.global@gmail.com
 [Trade registry / tax / MERSIS details - TO BE ADDED BY SOFT NOVA, if applicable]
 
 By creating an account or using Carvia you agree to these terms. If you do not agree, do not use the app. See also our [Privacy Policy](privacy_policy.md).
@@ -12,7 +12,7 @@ Carvia is a vehicle companion app for phone and Android Auto: vehicle garage, fu
 ## 2. Eligibility and accounts
 - You must be at least 13 years old. Where the law of your country requires a higher age or parental consent (for example, persons under 18 in Turkey), you may use Carvia only with your parent's or guardian's permission.
 - You can use Carvia as a guest or with a Google or email/password account. You must give accurate information, keep your credentials safe and tell us if you suspect unauthorized use. You are responsible for activity on your account.
-- You can delete your account at any time in Settings > Account > Delete account. See [account-deletion.md](account-deletion.md).
+- You can delete your account at any time in Settings > Account > Delete account. See [https://sncarvia.web.app/account-deletion](https://sncarvia.web.app/account-deletion).
 
 ## 3. Driving safety
 Do not use Carvia in a way that distracts you from driving. Obey traffic laws. Some features can be limited while the vehicle is moving. Station, map and other information may be incomplete or out of date (it comes from third-party open data). You use it at your own risk and must verify what matters. Entries you make (fuel, maintenance, inspection dates) are your own records and not professional advice.
@@ -51,7 +51,7 @@ We may update these terms. We will change the date above and, for material chang
 Soft Nova is not a content, hosting or access provider for the websites you open in the browser. To report unlawful content or an infringement related to Carvia, contact softnova.global@gmail.com with the details and the link; we will review and respond as required by Law No. 5651 and related regulations.
 
 ## 14. Governing law and disputes
-Turkish law applies, without removing mandatory consumer protections of your country of residence. Consumers in Turkey may apply to Consumer Arbitration Committees or Consumer Courts within the monetary limits set each year by the Ministry of Trade, and to the courts of their place of residence. For other users, the competent courts are those of [CITY - TO BE ADDED BY SOFT NOVA], Turkey, unless mandatory law gives you another forum.
+Turkish law applies, without removing mandatory consumer protections of your country of residence. Consumers in Turkey may apply to Consumer Arbitration Committees or Consumer Courts within the monetary limits set each year by the Ministry of Trade, and to the courts of their place of residence. For other users, the competent courts are those of Istanbul, Turkey, unless mandatory law gives you another forum.
 
 ## 15. Contact
 Soft Nova, Istanbul, Türkiye, softnova.global@gmail.com
