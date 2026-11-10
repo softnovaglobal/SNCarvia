@@ -34,7 +34,7 @@ This data is stored on your device. If you sign in, it is also stored in the clo
 ### 2.4 Receipt photos, files, screen sharing and voice search
 - Receipt photo: a fuel receipt photo you take is read on the device with Google ML Kit text recognition. It is not uploaded and not added to your account.
 - Excel files: when you import or export records as .xlsx, only the file you choose through the Android file picker is used.
-- Screen sharing: if you start it (Android asks for your permission and shows a notification), your phone screen is mirrored to the Android Auto display. It is not recorded and not sent to any server.
+- Screen sharing: only if you start it. Android asks for your permission and shows a continuous notification with a Stop button while it runs. Your phone screen is shown on the Android Auto display; no audio is captured. The image is not recorded, saved, or sent to our servers. You can stop sharing from the notification, the app home screen or the widget.
 - Voice search: on the car web page, if you allow the microphone, speech is processed by the speech recognition service of your device (usually Google). Carvia does not record or store audio.
 
 ### 2.5 Access time, ads and purchases
