@@ -106,6 +106,7 @@ Carvia is intended for users aged 13 and over. It is not designed for children u
 ## 9. Deleting your data and account
 
 - In the app: Settings > Account > Delete account. You confirm your identity again (Google or password). Your Firestore documents and your Firebase account are deleted. You can choose whether the data on this phone is also deleted.
+- One vehicle: in My Garage, tap the delete button on the vehicle and confirm. The vehicle and its fuel purchases, fuel settings, maintenance records and maintenance plan are deleted from this phone and, when you are signed in, from your cloud account copy at the next sync.
 - Local data only: clear app data in Android settings or uninstall the app.
 - Guests: guest data is on your device. The anonymous Access time record is kept without a time limit for abuse, fraud and security controls (section 8). For earlier removal write to softnova.global@gmail.com; because the record has no name or email, we can delete it only if we can identify it from the details you send.
 - Exception: the welcome marker described in section 2.5 may remain because it is needed to prevent abuse. It contains your email address and account ID. To ask us to review or remove it, write to softnova.global@gmail.com from your account email address.
